@@ -7,7 +7,7 @@ Report (Q5 for competition section): &emsp;[Concurrent Final Report.pdf](https:/
 
 Team: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; team66
 
-Competition algorithm time: &emsp;&emsp;&emsp;&emsp;&nbsp; 4.976s
+Algorithm competition time: &emsp;&emsp;&emsp;&emsp;&nbsp; 4.976s
 
 
 
