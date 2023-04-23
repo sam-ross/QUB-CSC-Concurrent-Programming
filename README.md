@@ -1,5 +1,7 @@
 # Concurrent Programming Competition
 
+Utilised memory mapping to read the large 2Gb graph files directly into memory. Assigned 12 threads to read the graph file in parallel very efficiently. Optimised the Disjoint Set Union Algorithm and other processes to improve performance.
+
 Acheived 2nd place in the concurrent programming competition. 
 
 Report (Q5 for competition section): &emsp;[Concurrent Final Report.pdf](https://github.com/sam-ross/QUB-CSC-Concurrent-Programming/files/11303524/Concurrent.Final.Report.pdf)
