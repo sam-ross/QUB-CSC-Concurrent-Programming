@@ -2,9 +2,12 @@
 
 Acheived 2nd place in the concurrent programming competition. 
 
-Team: team66
+Report: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;[Concurrent Final Report.pdf](https://github.com/sam-ross/QUB-CSC-Concurrent-Programming/files/11303524/Concurrent.Final.Report.pdf)
 
-Competition algorithm time: 4.976s
+
+Team: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; team66
+
+Competition algorithm time: &emsp; 4.976s
 
 
 
